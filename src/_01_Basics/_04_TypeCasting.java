@@ -38,6 +38,7 @@ public class _04_TypeCasting {
         // 3. Character to Integer Conversion Example
         // ===============================
 
+
         char grade = 'A';
         int gradeValue = grade;
 
